@@ -1,0 +1,1 @@
+This is my repo for notes and exercises for Natural Language Processing during my time at Codeup.
